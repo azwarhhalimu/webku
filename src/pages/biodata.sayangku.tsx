@@ -1,6 +1,6 @@
 function Biodata() {
     return <>
-        halmaan biodata
+        halmaan biodata ku
     </>
 
 }

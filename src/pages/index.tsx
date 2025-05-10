@@ -8,7 +8,8 @@ export default function Home() {
   return (
     <>
       <Link href="/biodata.sayangku ">BIodata</Link>
-      Nama azwar :azwar
+      <br />
+      Nama  :Budi
       <br />
       <b>Universitas</b> <i> Iksanuddin</i>
       <br />
